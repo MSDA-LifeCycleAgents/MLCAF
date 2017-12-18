@@ -1,4 +1,4 @@
-<xml>
+<?xml version="1.0" encoding="UTF-8" ?>
     <instructions>
         <identiefer>
             fVTz7OCaD8WFJE5Jvw7K
@@ -67,4 +67,3 @@
             <to></to>
         </fallback>
     </instructions>
-</xml>
